@@ -15,6 +15,21 @@
 **CBH 3402, UBC Hospital**
 Take the elevator to the 3rd floor of CBH (the new glass building in front of UBC hospital)
 
+If you haven't downloaded this repository yet, run
+```git clone https://github.com/ubcmri/scientific-python-tutorial.git```
+
+If you downloaded the repo at a previous session, update it with
+```
+cd scientific-python-tutorial
+git pull origin master
+```
+
+If that fails, try:
+```
+git reset --hard
+git pull origin master
+```
+
 Resources:
 
 * [Python for Everyone Coursera Course](https://www.coursera.org/learn/python) ($$)
