@@ -15,8 +15,12 @@
 **CBH 3402, UBC Hospital**
 Take the elevator to the 3rd floor of CBH (the new glass building in front of UBC hospital)
 
+Tutorials can be run on your own computer with Python3 and Jupyter installed, or at ubc.syzygy.ca
+
 If you haven't downloaded this repository yet, run
-```git clone https://github.com/ubcmri/scientific-python-tutorial.git```
+```
+git clone https://github.com/ubcmri/scientific-python-tutorial.git
+```
 
 If you downloaded the repo at a previous session, update it with
 ```
