@@ -11,8 +11,9 @@
 **BRC Conference Centre, UBC Hospital**
 
 ## Workshop 3: Python in Neuroimaging 
-*9am August 29th 2017*
-**BRC Conference Centre, UBC Hospital**
+*9am August 31st 2017*
+**CBH 3402, UBC Hospital**
+Take the elevator to the 3rd floor of CBH (the new glass building in front of UBC hospital)
 
 Resources:
 
